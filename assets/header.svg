@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<style>
+.ln{animation:in .5s ease-out backwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.ul{stroke-dasharray:300;animation:grow 1s ease-out 3.2s backwards}
+@keyframes grow{from{stroke-dashoffset:300}to{stroke-dashoffset:0}}
+.sig{stroke-dasharray:36 900;animation:run 5s linear infinite}
+@keyframes run{from{stroke-dashoffset:936}to{stroke-dashoffset:0}}
+.nm{animation:in .8s ease-out 2.7s backwards}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<radialGradient id="g1" cx="78%" cy="20%" r="55%"><stop offset="0" stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="15%" cy="95%" r="45%"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".12"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient>
+<linearGradient id="nameg" x1="0" x2="1"><stop offset="0" stop-color="#E8F1FF"/><stop offset="1" stop-color="#9BE7F5"/></linearGradient>
+</defs>
+<rect width="1200" height="400" rx="18" fill="#060B18"/>
+<rect width="1200" height="400" rx="18" fill="url(#g1)"/>
+<rect width="1200" height="400" rx="18" fill="url(#g2)"/>
+<path d="M0 70 H180 L220 110 H420" fill="none" stroke="#22D3EE" stroke-opacity=".10" stroke-width="1.5"/>
+<path d="M1200 60 H1000 L960 100 H820" fill="none" stroke="#22D3EE" stroke-opacity=".10" stroke-width="1.5"/>
+<path d="M0 380 H140 L190 330 H360" fill="none" stroke="#22D3EE" stroke-opacity=".10" stroke-width="1.5"/>
+<path d="M1200 370 H1060 L1020 330 H900" fill="none" stroke="#22D3EE" stroke-opacity=".10" stroke-width="1.5"/>
+<path d="M600 0 V30" fill="none" stroke="#22D3EE" stroke-opacity=".10" stroke-width="1.5"/>
+<path d="M300 400 V375" fill="none" stroke="#22D3EE" stroke-opacity=".10" stroke-width="1.5"/>
+<circle cx="420" cy="110" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="820" cy="100" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="360" cy="330" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="900" cy="330" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="180" cy="70" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="1000" cy="60" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="140" cy="380" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="1060" cy="370" r="3" fill="#060B18" stroke="#22D3EE" stroke-opacity=".35"/>
+<path class="sig" d="M0 70 H180 L220 110 H420" fill="none" stroke="#FF7A1A" stroke-width="2" stroke-linecap="round"/>
+<path class="sig" style="animation-delay:2.5s" d="M1200 370 H1060 L1020 330 H900" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"/>
+<rect x="44" y="52" width="540" height="300" rx="12" fill="#0A1224" stroke="#1B2A44"/>
+<path d="M44 64 a12 12 0 0 1 12 -12 H572 a12 12 0 0 1 12 12 V88 H44Z" fill="#0D1830"/>
+<line x1="44" y1="88" x2="584" y2="88" stroke="#1B2A44"/>
+<circle cx="68" cy="70" r="6" fill="#FF5F57"/><circle cx="88" cy="70" r="6" fill="#FEBC2E"/><circle cx="108" cy="70" r="6" fill="#28C840"/>
+<text x="314" y="75" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#7C8BA6">masterrr3470 : ~</text>
+<text class="ln" style="animation-delay:0.30s" x="84" y="132" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17"><tspan fill="#22D3EE">$</tspan><tspan fill="#E8F1FF" dx="10">whoami</tspan></text>
+<text class="ln" style="animation-delay:0.72s" x="84" y="164" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17" fill-opacity=".9"><tspan fill="#E8F1FF" xml:space="preserve">jorge-lourenco</tspan></text>
+<text class="ln" style="animation-delay:1.14s" x="84" y="196" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17"><tspan fill="#22D3EE">$</tspan><tspan fill="#E8F1FF" dx="10">cat role.txt</tspan></text>
+<text class="ln" style="animation-delay:1.56s" x="84" y="228" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17" fill-opacity=".9"><tspan fill="#E8F1FF" xml:space="preserve">full-stack developer</tspan></text>
+<text class="ln" style="animation-delay:1.98s" x="84" y="260" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17"><tspan fill="#22D3EE">$</tspan><tspan fill="#E8F1FF" dx="10">ls ~/projects</tspan></text>
+<text class="ln" style="animation-delay:2.40s" x="84" y="292" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17" fill-opacity=".9"><tspan fill="#22D3EE" xml:space="preserve">replai</tspan><tspan fill="#FF5C7A" xml:space="preserve">  pulsesync</tspan><tspan fill="#34E0A1" xml:space="preserve">  e-materia</tspan><tspan fill="#FF7A1A" xml:space="preserve">  menvostudio</tspan></text>
+<text class="ln" style="animation-delay:2.82s" x="84" y="324" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17"><tspan fill="#22D3EE">$</tspan></text>
+<rect class="cur" x="104" y="309" width="10" height="19" fill="#FF7A1A"/>
+<g class="nm">
+<text x="650" y="168" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="74" font-weight="800" fill="url(#nameg)" letter-spacing="-2">Jorge</text>
+<text x="650" y="246" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="74" font-weight="800" fill="url(#nameg)" letter-spacing="-2">Lourenço</text>
+<text x="652" y="300" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#7C8BA6">Full-stack developer building AI-powered</text>
+<text x="652" y="328" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#7C8BA6">apps from Vila Nova de Gaia, Portugal</text>
+</g>
+<line class="ul" x1="652" y1="268" x2="952" y2="268" stroke="#FF7A1A" stroke-width="4" stroke-linecap="round"/>
+</svg>

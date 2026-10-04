@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="290" viewBox="0 0 580 290">
+<style>.ecg{stroke-dasharray:60 400;animation:beat 2.2s linear infinite}@keyframes beat{from{stroke-dashoffset:460}to{stroke-dashoffset:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><radialGradient id="glow" cx="82%" cy="45%" r="45%"><stop offset="0" stop-color="#22D3EE" stop-opacity=".14"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="578" height="288" rx="14" fill="#0A1224" stroke="#1B2A44" stroke-width="1.5"/>
+<rect x="1" y="1" width="578" height="288" rx="14" fill="url(#glow)"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H565 a14 14 0 0 1 14 14 V44 H1Z" fill="#0D1830"/>
+<line x1="1" y1="44" x2="579" y2="44" stroke="#1B2A44"/>
+<rect x="16" y="10" width="178" height="34" rx="6" fill="#0A1224"/>
+<circle cx="32" cy="27" r="5" fill="#22D3EE"/>
+<text x="46" y="32" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#7C8BA6">replai/<tspan fill="#E8F1FF">README.md</tspan></text>
+<text x="32" y="110" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#E8F1FF" letter-spacing="-.5">Replai</text>
+<text x="32" y="148" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#7C8BA6">Answers business emails with AI, writing</text>
+<text x="32" y="172" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#7C8BA6">replies from each company&#39;s own context.</text>
+<rect x="32" y="220" width="65" height="28" rx="14" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".45"/><text x="64" y="239" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#E8F1FF">React</text><rect x="105.0" y="220" width="106" height="28" rx="14" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".45"/><text x="158" y="239" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#E8F1FF">TypeScript</text><rect x="219.0" y="220" width="81" height="28" rx="14" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".45"/><text x="260" y="239" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#E8F1FF">Node.js</text><rect x="308.4" y="220" width="73" height="28" rx="14" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".45"/><text x="345" y="239" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#E8F1FF">Gemini</text>
+<rect x="422" y="118" width="96" height="66" rx="8" fill="none" stroke="#22D3EE" stroke-width="3"/>
+<path d="M422 122 L470 156 L518 122" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="514" cy="182" r="20" fill="#0A1224" stroke="#22D3EE" stroke-width="3"/>
+<path d="M522 188 v-6 a6 6 0 0 0 -6 -6 h-12 m6 -7 l-7 7 l7 7" fill="none" stroke="#22D3EE" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="122" width="40" height="3" rx="1.5" fill="#22D3EE"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="290" viewBox="0 0 580 290">
+<style>.ecg{stroke-dasharray:60 400;animation:beat 2.2s linear infinite}@keyframes beat{from{stroke-dashoffset:460}to{stroke-dashoffset:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><radialGradient id="glow" cx="82%" cy="45%" r="45%"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".14"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="578" height="288" rx="14" fill="#0A1224" stroke="#1B2A44" stroke-width="1.5"/>
+<rect x="1" y="1" width="578" height="288" rx="14" fill="url(#glow)"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H565 a14 14 0 0 1 14 14 V44 H1Z" fill="#0D1830"/>
+<line x1="1" y1="44" x2="579" y2="44" stroke="#1B2A44"/>
+<rect x="16" y="10" width="218" height="34" rx="6" fill="#0A1224"/>
+<circle cx="32" cy="27" r="5" fill="#FF7A1A"/>
+<text x="46" y="32" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#7C8BA6">menvostudio/<tspan fill="#E8F1FF">README.md</tspan></text>
+<text x="32" y="110" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#E8F1FF" letter-spacing="-.5">MenvoStudio</text>
+<text x="32" y="148" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#7C8BA6">Platform for clients to hire digital</text>
+<text x="32" y="172" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#7C8BA6">services online.</text>
+<rect x="32" y="220" width="65" height="28" rx="14" fill="#FF7A1A" fill-opacity=".08" stroke="#FF7A1A" stroke-opacity=".45"/><text x="64" y="239" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#E8F1FF">React</text><rect x="105.0" y="220" width="90" height="28" rx="14" fill="#FF7A1A" fill-opacity=".08" stroke="#FF7A1A" stroke-opacity=".45"/><text x="150" y="239" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#E8F1FF">Supabase</text>
+<path d="M416 102 H524 L530 130 H410Z" fill="none" stroke="#FF7A1A" stroke-width="3" stroke-linejoin="round"/><path d="M410 130 a12 12 0 0 0 24 0" fill="none" stroke="#FF7A1A" stroke-width="3"/><path d="M434 130 a12 12 0 0 0 24 0" fill="none" stroke="#FF7A1A" stroke-width="3"/><path d="M458 130 a12 12 0 0 0 24 0" fill="none" stroke="#FF7A1A" stroke-width="3"/><path d="M482 130 a12 12 0 0 0 24 0" fill="none" stroke="#FF7A1A" stroke-width="3"/><path d="M506 130 a12 12 0 0 0 24 0" fill="none" stroke="#FF7A1A" stroke-width="3"/>
+<path d="M420 144 V190 H520 V144" fill="none" stroke="#FF7A1A" stroke-width="3" stroke-linejoin="round"/>
+<rect x="456" y="162" width="28" height="28" rx="3" fill="none" stroke="#FF7A1A" stroke-width="3"/>
+<rect x="32" y="122" width="40" height="3" rx="1.5" fill="#FF7A1A"/>
+</svg>
