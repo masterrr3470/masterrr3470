@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<rect width="1200" height="110" rx="18" fill="#060B18"/>
+<path d="M0 30 H160 L190 60 H300" fill="none" stroke="#22D3EE" stroke-opacity=".12" stroke-width="1.5"/>
+<path d="M1200 80 H1040 L1010 50 H900" fill="none" stroke="#22D3EE" stroke-opacity=".12" stroke-width="1.5"/>
+<path d="M0 30 H160 L190 60 H300" fill="none" stroke="#FF7A1A" stroke-width="2" stroke-linecap="round" stroke-dasharray="30 500"><animate attributeName="stroke-dashoffset" from="530" to="0" dur="3s" repeatCount="indefinite"/></path>
+<path d="M1200 80 H1040 L1010 50 H900" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-dasharray="30 500"><animate attributeName="stroke-dashoffset" from="530" to="0" dur="3s" begin="1.5s" repeatCount="indefinite"/></path>
+<text x="600" y="50" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="17"><tspan fill="#22D3EE">$</tspan><tspan fill="#E8F1FF" dx="10">exit</tspan></text>
+<text x="600" y="80" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#7C8BA6">Thanks for stopping by. Let&#39;s build something together.</text>
+<rect x="642" y="36" width="9" height="17" fill="#FF7A1A"><animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;.5;.5;1"/></rect>
+</svg>
