@@ -55,7 +55,7 @@ I'm a programming student at Escola Profissional de Gaia who spends most of the 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masterrr3470&bg_color=0A1224&color=7C8BA6&line=22D3EE&point=FF7A1A&area=true&area_color=22D3EE&title_color=E8F1FF&hide_border=true&custom_title=Contributions%20in%20the%20last%20month" width="100%"/>
+<img src="https://raw.githubusercontent.com/masterrr3470/masterrr3470/output/snake.svg" width="100%"/>
 
 </div>
 
