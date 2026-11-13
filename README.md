@@ -24,6 +24,8 @@
 
 ## Why
 
+I built keepcode after losing the code of a restaurant ordering app I was working on and having to rebuild it from scratch.
+
 Code rarely gets lost in a dramatic way. It is a project that never left the Downloads folder, a repository with no remote, a week of work nobody committed. keepcode checks every project on your computer at once and backs up what is at risk to GitHub, without touching your files or your branches.
 
 <p align="center">
@@ -172,6 +174,23 @@ pytest
 The tests create real repositories and local remotes in temporary folders, so they never touch GitHub. They run on Windows and Linux on every push.
 
 </details>
+
+## About me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/author-dark.svg">
+  <img src="docs/assets/author-light.svg" width="100%" alt="Jorge Lourenço, full-stack developer and programming student at Escola Profissional de Gaia, open to internships in Porto and Gaia">
+</picture>
+
+I like building complete products, from the database to the last animation. Besides keepcode, I have built **Komo**, QR code ordering for restaurants; **PulseSync**, a heart monitor connected to an ESP32; **Replai**, AI replies to business emails; and **E-Materia**, a learning platform with AI. You can see them on my portfolio.
+
+I'm open to an internship in Porto or Gaia, on site or hybrid. If keepcode saved one of your projects, I'd love to hear about it.
+
+<p>
+  <a href="https://jorge-lourenco.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/assets/btn-portfolio-dark.svg"><img src="docs/assets/btn-portfolio-light.svg" height="44" alt="Portfolio"></picture></a>
+  <a href="https://github.com/masterrr3470"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/assets/btn-github-dark.svg"><img src="docs/assets/btn-github-light.svg" height="44" alt="GitHub profile"></picture></a>
+  <a href="mailto:lourencojorge428@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/assets/btn-email-dark.svg"><img src="docs/assets/btn-email-light.svg" height="44" alt="Email"></picture></a>
+</p>
 
 <br>
 
