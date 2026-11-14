@@ -19,11 +19,13 @@
 
 I'm a full-stack developer and programming student at Escola Profissional de Gaia, in Portugal. Most of my work is APIs in Django REST Framework with interfaces in React and TypeScript, and lately a lot of apps with AI at the core. I also like mixing software with hardware, from ESP32 devices to desktop apps with Tauri.
 
-Right now I'm building keepcode and looking for an internship in Porto or Gaia, on site or hybrid.
+My latest project is keepcode, a Windows app that backs up every project on your computer to GitHub in one click. I'm looking for an internship in Porto or Gaia, on site or hybrid.
 
 ## Featured
 
-<a href="https://github.com/masterrr3470/keepcode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/featured-keepcode-dark.svg"><img src="assets/featured-keepcode-light.svg" width="100%" alt="keepcode, open source: finds every project on your computer that is not backed up, and saves it to GitHub without touching your files or branches"></picture></a>
+<a href="https://github.com/masterrr3470/keepcode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/featured-keepcode-dark.svg"><img src="assets/featured-keepcode-light.svg" width="100%" alt="keepcode, open source Windows app: finds every project on your computer that is not backed up and saves it to private GitHub repositories in one click"></picture></a>
+
+keepcode started as a command line tool and is now an app. Double-click it and a grid of squares lights up while it searches your computer, one square per project, coloured by how safe it is. It lists what is not backed up and why, and one button sends each project to its own private GitHub repository. It also updates itself from GitHub Releases. Built with Python, a [pywebview](https://pywebview.flowrl.com) window and GitHub Actions.
 
 ## Projects
 
